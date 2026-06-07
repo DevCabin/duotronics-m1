@@ -1,4 +1,4 @@
-# 🧠 Duotronics M-1
+# 🧠 Multitronics Unit One (The M1)
 
 > *"Every expert was once a beginner."*
 
